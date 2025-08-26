@@ -1,0 +1,596 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Max Mowing//Mowing + Soccer Full 2025//EN
+BEGIN:VEVENT
+UID:mow-0@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250828T163000
+DTEND;TZID=America/Indiana/Indianapolis:20250828T170000
+SUMMARY:Mowing - Kelly Palmer
+LOCATION:1122 Chatham Ridge Ct
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20251107T235959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mow-1@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250828T170000
+DTEND;TZID=America/Indiana/Indianapolis:20250828T173000
+SUMMARY:Mowing - Bob Iorii
+LOCATION:1088 Chatham Ridge Ct
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20251107T235959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mow-2@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250828T173000
+DTEND;TZID=America/Indiana/Indianapolis:20250828T180000
+SUMMARY:Mowing - Jason Stealy
+LOCATION:20188 Chatham Hills Blvd
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20251107T235959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mow-3@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250828T180000
+DTEND;TZID=America/Indiana/Indianapolis:20250828T183000
+SUMMARY:Mowing - Devon
+LOCATION:20380 Chatham Hills Blvd
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20251107T235959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mow-4@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250828T183000
+DTEND;TZID=America/Indiana/Indianapolis:20250828T190000
+SUMMARY:Mowing - Gary Wilson
+LOCATION:20033 Prescott Place Drive
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20251107T235959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mow-5@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250828T190000
+DTEND;TZID=America/Indiana/Indianapolis:20250828T193000
+SUMMARY:Mowing - Donna Stealy
+LOCATION:1215 Stonehaven Drive
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20251107T235959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mow-6@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250828T193000
+DTEND;TZID=America/Indiana/Indianapolis:20250828T200000
+SUMMARY:Mowing - Kara Burns
+LOCATION:1365 Chatham Ridge Ct
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20251107T235959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mow-7@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250828T200000
+DTEND;TZID=America/Indiana/Indianapolis:20250828T203000
+SUMMARY:Mowing - James Hughes
+LOCATION:1105 Chatham Ridge Ct
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20251107T235959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-0@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250807T090000
+DTEND;TZID=America/Indiana/Indianapolis:20250807T100000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-1@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250808T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250808T180000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-2@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250809T090000
+DTEND;TZID=America/Indiana/Indianapolis:20250809T102000
+SUMMARY:Varsity Soccer — GCHS Sports Team and Individual Photos
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-3@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250811T170000
+DTEND;TZID=America/Indiana/Indianapolis:20250811T184500
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-4@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250812T170000
+DTEND;TZID=America/Indiana/Indianapolis:20250812T184500
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-5@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250813T170000
+DTEND;TZID=America/Indiana/Indianapolis:20250813T184500
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-6@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250814T173000
+DTEND;TZID=America/Indiana/Indianapolis:20250814T190000
+SUMMARY:Varsity Soccer — at Noblesville - Scrimmage
+LOCATION:White River Elementary School — 19000 Cumberland Rd Noblesville, IN, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-7@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250815T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250815T171500
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-8@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250816T150000
+DTEND;TZID=America/Indiana/Indianapolis:20250816T163000
+SUMMARY:Varsity Soccer — vs. Pendleton Heights
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-9@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250816T163000
+DTEND;TZID=America/Indiana/Indianapolis:20250816T183000
+SUMMARY:Varsity Soccer — Golden Eagle Club Cornhole Tournament and Community Celebration
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-10@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250818T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250818T180000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-11@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250819T190000
+DTEND;TZID=America/Indiana/Indianapolis:20250819T211000
+SUMMARY:Varsity Soccer — vs. Park Tudor
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-12@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250820T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250820T173000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-13@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250820T180000
+DTEND;TZID=America/Indiana/Indianapolis:20250820T200000
+SUMMARY:Varsity Soccer — Varsity Team Dinner
+LOCATION:Mrs. McGrath's House — 5244 Morning Mist Ct Noblesville, IN, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-14@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250821T190000
+DTEND;TZID=America/Indiana/Indianapolis:20250821T203000
+SUMMARY:Varsity Soccer — vs. Hertiage Christian HS
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-15@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250822T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250822T171500
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-16@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250823T113000
+DTEND;TZID=America/Indiana/Indianapolis:20250823T130000
+SUMMARY:Varsity Soccer — at Hamilton Southeastern
+LOCATION:Hamilton Southeastern High School — 12499 Olio Rd
+Fishers IN 46037
+United States
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-17@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250825T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250825T180000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-18@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250826T193000
+DTEND;TZID=America/Indiana/Indianapolis:20250826T210000
+SUMMARY:Varsity Soccer — vs. Center Grove HS
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-19@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250827T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250827T173000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-20@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250827T180000
+DTEND;TZID=America/Indiana/Indianapolis:20250827T200000
+SUMMARY:Varsity Soccer — Varsity Team Dinner
+LOCATION:McMurtrey House — 13653 Alston Dr Fishers, IN, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-21@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250828T190000
+DTEND;TZID=America/Indiana/Indianapolis:20250828T203000
+SUMMARY:Varsity Soccer — vs. Westfield High School
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-22@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250829T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250829T171500
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-23@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250830T143000
+DTEND;TZID=America/Indiana/Indianapolis:20250830T160000
+SUMMARY:Varsity Soccer — at Brebeuf Jesuit
+LOCATION:Brebeuf Jesuit — 2801 W 86th St, Indianapolis IN 46268
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-24@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250902T190000
+DTEND;TZID=America/Indiana/Indianapolis:20250902T203000
+SUMMARY:Varsity Soccer — at Cathedral HS
+LOCATION:Grand Park — 19000 Grand Park Blvd Westfield, IN, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-25@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250903T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250903T173000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-26@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250903T180000
+DTEND;TZID=America/Indiana/Indianapolis:20250903T200000
+SUMMARY:Varsity Soccer — Varsity Team Dinner
+LOCATION:TBD each week — Team house TBD each week
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-27@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250904T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250904T180000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-28@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250905T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250905T171500
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-29@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250906T113000
+DTEND;TZID=America/Indiana/Indianapolis:20250906T130000
+SUMMARY:Varsity Soccer — at Bishop Chatard HS
+LOCATION:Bishop Chatard HS — 5885 N CRITTENDEN Ave, INDIANAPOLIS IN 46220
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-30@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250908T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250908T180000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-31@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250909T190000
+DTEND;TZID=America/Indiana/Indianapolis:20250909T203000
+SUMMARY:Varsity Soccer — vs. Roncalli HS
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-32@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250910T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250910T173000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-33@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250910T180000
+DTEND;TZID=America/Indiana/Indianapolis:20250910T200000
+SUMMARY:Varsity Soccer — Varsity Team Dinner
+LOCATION:TBD each week — Team house TBD each week
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-34@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250911T190000
+DTEND;TZID=America/Indiana/Indianapolis:20250911T203000
+SUMMARY:Varsity Soccer — at Harrison (WL)
+LOCATION:Harrison High School (WL) — 5701 N 50 W West Lafayette, IN, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-35@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250912T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250912T171500
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-36@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250913T113000
+DTEND;TZID=America/Indiana/Indianapolis:20250913T130000
+SUMMARY:Varsity Soccer — at Cardinal Ritter HS
+LOCATION:Cardinal Ritter High Shcool — 3360 W 30th St Indianapolis, IN, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-37@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250915T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250915T180000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-38@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250916T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250916T180000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-39@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250917T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250917T173000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-40@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250917T180000
+DTEND;TZID=America/Indiana/Indianapolis:20250917T200000
+SUMMARY:Varsity Soccer — Varsity Team Dinner
+LOCATION:TBD each week — Team house TBD each week
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-41@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250918T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250918T180000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-42@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250919T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250919T171500
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-43@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250920T153000
+DTEND;TZID=America/Indiana/Indianapolis:20250920T171500
+SUMMARY:Varsity Soccer — vs. Trinity (KY)
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-44@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250922T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250922T180000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-45@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250923T193000
+DTEND;TZID=America/Indiana/Indianapolis:20250923T210000
+SUMMARY:Varsity Soccer — SENIOR NIGHT Game vs. Tri-West High School
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-46@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250924T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250924T173000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-47@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250924T180000
+DTEND;TZID=America/Indiana/Indianapolis:20250924T200000
+SUMMARY:Varsity Soccer — Varsity Team Dinner
+LOCATION:TBD each week — Team house TBD each week
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-48@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250925T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250925T180000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-49@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250926T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250926T171500
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-50@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250927T120000
+DTEND;TZID=America/Indiana/Indianapolis:20250927T133000
+SUMMARY:Varsity Soccer — at Yorktown High School
+LOCATION:Yorktown High School — 1100 S Tiger Dr Yorktown, IN, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-51@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250929T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250929T180000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-52@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20250930T161500
+DTEND;TZID=America/Indiana/Indianapolis:20250930T180000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-53@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20251001T190000
+DTEND;TZID=America/Indiana/Indianapolis:20251001T203000
+SUMMARY:Varsity Soccer — vs. West Lafayette High School
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-54@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20251002T161500
+DTEND;TZID=America/Indiana/Indianapolis:20251002T171500
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-55@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20251002T180000
+DTEND;TZID=America/Indiana/Indianapolis:20251002T200000
+SUMMARY:Varsity Soccer — Varsity Team Dinner
+LOCATION:TBD each week — Team house TBD each week
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-56@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20251003T161500
+DTEND;TZID=America/Indiana/Indianapolis:20251003T171500
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-57@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20251006T161500
+DTEND;TZID=America/Indiana/Indianapolis:20251006T180000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-58@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20251008T161500
+DTEND;TZID=America/Indiana/Indianapolis:20251008T173000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-59@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20251008T180000
+DTEND;TZID=America/Indiana/Indianapolis:20251008T200000
+SUMMARY:Varsity Soccer — Varsity Team Dinner
+LOCATION:TBD each week — Team house TBD each week
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-60@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20251010T161500
+DTEND;TZID=America/Indiana/Indianapolis:20251010T171500
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-61@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20251013T161500
+DTEND;TZID=America/Indiana/Indianapolis:20251013T180000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-62@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20251014T161500
+DTEND;TZID=America/Indiana/Indianapolis:20251014T180000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-63@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20251016T161500
+DTEND;TZID=America/Indiana/Indianapolis:20251016T171500
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-64@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20251017T161500
+DTEND;TZID=America/Indiana/Indianapolis:20251017T171500
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-65@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20251020T161500
+DTEND;TZID=America/Indiana/Indianapolis:20251020T180000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-66@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20251021T161500
+DTEND;TZID=America/Indiana/Indianapolis:20251021T180000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-67@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20251022T161500
+DTEND;TZID=America/Indiana/Indianapolis:20251022T173000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-68@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20251023T161500
+DTEND;TZID=America/Indiana/Indianapolis:20251023T180000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-69@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20251024T161500
+DTEND;TZID=America/Indiana/Indianapolis:20251024T171500
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-70@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20251027T161500
+DTEND;TZID=America/Indiana/Indianapolis:20251027T180000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-71@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20251028T161500
+DTEND;TZID=America/Indiana/Indianapolis:20251028T180000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-72@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20251029T161500
+DTEND;TZID=America/Indiana/Indianapolis:20251029T173000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-73@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20251030T161500
+DTEND;TZID=America/Indiana/Indianapolis:20251030T180000
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+BEGIN:VEVENT
+UID:soc-74@max-2025
+DTSTART;TZID=America/Indiana/Indianapolis:20251031T161500
+DTEND;TZID=America/Indiana/Indianapolis:20251031T171500
+SUMMARY:Varsity Soccer — Varsity Team Practice
+LOCATION:Guerin Catholic — nan
+END:VEVENT
+END:VCALENDAR
